@@ -1,0 +1,45 @@
+{
+    "BigQuery Schema": [
+      {
+        "name": "step",
+        "type": "INTEGER"
+      },
+      {
+        "name": "customer",
+        "type": "STRING"
+      },
+      {
+        "name": "age",
+        "type": "STRING"
+      },
+      {
+        "name": "gender",
+        "type": "STRING"
+      },
+      {
+        "name": "zipcodeori",
+        "type": "STRING"
+      },
+      {
+        "name": "merchant",
+        "type": "STRING"
+      },
+      {
+        "name": "zipmerchant",
+        "type": "STRING"
+      },
+      {
+        "name": "category",
+        "type": "STRING"
+      },
+      {
+        "name": "amount",
+        "type": "NUMERIC"
+      },
+      {
+        "name": "fraud",
+        "type": "BOOLEAN"
+      }
+    ]
+  }
+  
